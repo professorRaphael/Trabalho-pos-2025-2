@@ -1,4 +1,4 @@
-# Avaliação — Mini-Projeto Integrado em Python (versão simplificada)
+# Avaliação — Mini-Projeto Integrado em Python
 
 * **Disciplina**: Linguagem Python
 * **Professor**: Raphael Mauricio Sanches de Jesus
