@@ -8,6 +8,12 @@
 
 ---
 
+## 😁 Exemplos para consulta, materia de aula no SAVA e:
+    https://colab.research.google.com/drive/1zDGpev-fxv0rLcNEGymadpjpPZYhZIFD?usp=sharing 
+    https://github.com/professorRaphael/exemplo-streamlit
+    https://github.com/professorRaphael/streamlit_flask
+
+
 ## 🎯 Objetivo
 
 Construir uma aplicação **enxuta** que una três pilares vistos em aula:
